@@ -122,6 +122,10 @@ export default function Registration() {
                                         label="Confirm Password"
                                         {...register("confirmPassword", {
                                             required: "Please confirm your password",
+                                            minLength: {
+                                                value: 8,
+                                                message: "Password must have at least 8 characters"
+                                            },
                                             validate: (value) => {
                                                 return value === password.current || "The passwords do not match"
                                             }
