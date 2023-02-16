@@ -139,7 +139,7 @@ export default function Registration() {
                                 variant="outlined"
                                 sx={{ mt: 3, mb: 2 }}
                             >
-                                Sign Up
+                                Register
                             </Button>
                         </React.Fragment>
                     </Box>
