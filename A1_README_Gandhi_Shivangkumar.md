@@ -75,7 +75,7 @@ Add additional notes about how to deploy this on a live system
 - Deploy project with github/gitlab option
 - Configure Deployment settings
 
-URL: https://merry-naiad-4c5008.netlify.app/
+URL: https://main--dreamy-marzipan-e24dd3.netlify.app/
 
 
 ## Built With
